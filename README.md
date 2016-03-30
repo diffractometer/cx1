@@ -1,5 +1,7 @@
 # HUJO CX1 parts list w/ prices
 
+Stay tuned for the CX2.
+
 ![](https://s3.eu-central-1.amazonaws.com/hujo/hujo.cx1.jpg)
 
 * Hard Drive Mounting Bracket for M350 Mini-ITX Enclosure                                                                  | $6.68 
