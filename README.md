@@ -1,6 +1,6 @@
 # HUJO CX1 parts list w/ prices
 
-Prices are estimated and now longer current.
+Prices are estimated and no longer current.
 
 ![](https://s3.eu-central-1.amazonaws.com/hujo/hujo.cx1.jpg)
 
